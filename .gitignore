@@ -1,8 +1,25 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
+.Python
+venv/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# Environment
 .env
 .env.*
 !.env.example
-*.log
+
+# Excel temp files
+~$*.xlsx
+~$*.xlsm
+*.xlk
+
+# OS
 .DS_Store
+Thumbs.db
