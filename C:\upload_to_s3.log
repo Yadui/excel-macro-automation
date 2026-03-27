@@ -1,0 +1,444 @@
+2025-06-09 15:13:25,028 - INFO - Script execution started.
+2025-06-09 15:15:38,635 - INFO - Script execution started.
+2025-06-09 15:16:39,538 - INFO - Script execution started.
+2025-06-09 15:16:39,538 - INFO - Updating excel data using xlwings
+2025-06-09 15:16:42,789 - INFO - Data updated in excel using xlwings
+2025-06-09 15:16:42,790 - INFO - Starting blob upload process.
+2025-06-09 15:16:42,790 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:16:42,790 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:19:07,952 - INFO - Script execution started.
+2025-06-09 15:19:07,952 - INFO - Reading data from excel file
+2025-06-09 15:19:10,842 - INFO - Read from Excel - Tenant ID: TENANT123
+2025-06-09 15:19:10,842 - INFO - Read from Excel - Deal ID: DEAL456
+2025-06-09 15:19:11,346 - INFO - Updating excel data using xlwings
+2025-06-09 15:19:14,196 - INFO - Data updated in excel using xlwings
+2025-06-09 15:19:14,197 - INFO - Starting blob upload process.
+2025-06-09 15:19:14,197 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:19:14,197 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:27:40,404 - INFO - Script execution started.
+2025-06-09 15:27:40,404 - INFO - Reading data from excel file
+2025-06-09 15:27:40,609 - INFO - Read from Excel - Tenant ID: TENANT123
+2025-06-09 15:27:40,609 - INFO - Read from Excel - Deal ID: DEAL456
+2025-06-09 15:27:41,113 - INFO - Updating excel data using xlwings
+2025-06-09 15:27:44,533 - INFO - Data updated in excel using xlwings
+2025-06-09 15:27:44,533 - INFO - Starting blob upload process.
+2025-06-09 15:27:44,533 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:27:44,533 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:30:58,018 - INFO - Script execution started.
+2025-06-09 15:30:58,018 - INFO - Reading data from excel file
+2025-06-09 15:31:00,657 - INFO - Creating new Excel file with data
+2025-06-09 15:31:01,381 - ERROR - Error creating new Excel file: Index 0 out of range (0 elements)
+2025-06-09 15:31:01,381 - ERROR - Error in main execution: Index 0 out of range (0 elements)
+2025-06-09 15:31:01,381 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:31:24,106 - INFO - Script execution started.
+2025-06-09 15:31:24,106 - INFO - Reading data from excel file
+2025-06-09 15:31:26,830 - INFO - Creating new Excel file with data
+2025-06-09 15:31:27,574 - ERROR - Error creating new Excel file: Index 0 out of range (0 elements)
+2025-06-09 15:31:27,574 - ERROR - Error in main execution: Index 0 out of range (0 elements)
+2025-06-09 15:31:27,574 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:34:21,478 - INFO - Script execution started.
+2025-06-09 15:34:21,478 - INFO - Reading data from excel file
+2025-06-09 15:34:23,061 - INFO - Creating new Excel file with data
+2025-06-09 15:34:32,160 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 15:34:32,161 - INFO - Starting blob upload process.
+2025-06-09 15:34:32,162 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:34:32,162 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:34:35,292 - INFO - Script execution started.
+2025-06-09 15:34:35,292 - INFO - Reading data from excel file
+2025-06-09 15:34:37,908 - INFO - Creating new Excel file with data
+2025-06-09 15:34:40,589 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 15:34:40,590 - INFO - Starting blob upload process.
+2025-06-09 15:34:40,590 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:34:40,590 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:35:47,067 - INFO - Script execution started.
+2025-06-09 15:35:47,067 - INFO - Reading data from excel file
+2025-06-09 15:35:47,760 - INFO - Creating new Excel file with data
+2025-06-09 15:35:50,484 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 15:35:50,485 - INFO - Starting blob upload process.
+2025-06-09 15:35:50,486 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:35:50,486 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:50:07,071 - INFO - Script execution started.
+2025-06-09 15:50:07,071 - INFO - Reading data from excel file
+2025-06-09 15:50:10,324 - INFO - Creating new Excel file with data
+2025-06-09 15:50:13,555 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 15:50:13,555 - INFO - Starting blob upload process.
+2025-06-09 15:50:13,555 - INFO - Uploading /Users/Work/Desktop/xlwings_test.xlsx to Azure blob.
+2025-06-09 15:50:13,555 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 15:59:21,032 - INFO - Script execution started.
+2025-06-09 15:59:21,032 - INFO - Reading data from excel file
+2025-06-09 15:59:26,553 - ERROR - Error reading from Excel: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53002889)).open_workbook(workbook_file_name='/Users/Work/Desktop/xlwings/xlwings_test copy.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2025-06-09 15:59:26,553 - ERROR - Error in main execution: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53002889)).open_workbook(workbook_file_name='/Users/Work/Desktop/xlwings/xlwings_test copy.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2025-06-09 15:59:26,553 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:00:55,566 - INFO - Script execution started.
+2025-06-09 16:00:55,566 - INFO - Reading data from excel file
+2025-06-09 16:01:08,257 - INFO - Creating new Excel file with data
+2025-06-09 16:01:09,742 - INFO - Script execution started.
+2025-06-09 16:01:09,742 - INFO - Reading data from excel file
+2025-06-09 16:01:11,329 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -1728
+		MESSAGE: The object you are trying to access does not exist
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53072538)).workbooks['xlwings_test_copy_2.xlsx'].close(saving=k.no)
+2025-06-09 16:01:11,330 - ERROR - Error in main execution: Command failed:
+		OSERROR: -1728
+		MESSAGE: The object you are trying to access does not exist
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53072538)).workbooks['xlwings_test_copy_2.xlsx'].close(saving=k.no)
+2025-06-09 16:01:11,331 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:01:12,264 - ERROR - Error reading from Excel: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app(pid=62330).open_workbook(workbook_file_name='/Users/Work/Desktop/xlwings/xlwings_test.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2025-06-09 16:01:12,264 - ERROR - Error in main execution: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app(pid=62330).open_workbook(workbook_file_name='/Users/Work/Desktop/xlwings/xlwings_test.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2025-06-09 16:01:12,265 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:01:14,962 - INFO - Script execution started.
+2025-06-09 16:01:14,962 - INFO - Reading data from excel file
+2025-06-09 16:01:18,936 - INFO - Creating new Excel file with data
+2025-06-09 16:01:21,582 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_3.xlsx
+2025-06-09 16:01:21,582 - INFO - Starting blob upload process.
+2025-06-09 16:01:21,583 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy 2.xlsx to Azure blob.
+2025-06-09 16:01:21,583 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:01:39,230 - INFO - Script execution started.
+2025-06-09 16:01:39,230 - INFO - Reading data from excel file
+2025-06-09 16:01:41,923 - INFO - Creating new Excel file with data
+2025-06-09 16:01:44,661 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_2.xlsx
+2025-06-09 16:01:44,661 - INFO - Starting blob upload process.
+2025-06-09 16:01:44,662 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy.xlsx to Azure blob.
+2025-06-09 16:01:44,662 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:01:49,148 - INFO - Script execution started.
+2025-06-09 16:01:49,148 - INFO - Reading data from excel file
+2025-06-09 16:01:52,252 - INFO - Creating new Excel file with data
+2025-06-09 16:01:54,921 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:01:54,921 - INFO - Starting blob upload process.
+2025-06-09 16:01:54,921 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:01:54,921 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:03:31,083 - INFO - Script execution started.
+2025-06-09 16:03:31,083 - INFO - Reading data from excel file
+2025-06-09 16:03:33,598 - INFO - Creating new Excel file with data
+2025-06-09 16:03:36,830 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:03:36,831 - INFO - Starting blob upload process.
+2025-06-09 16:03:36,831 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:03:36,831 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:04:31,033 - INFO - Script execution started.
+2025-06-09 16:04:31,033 - INFO - Reading data from excel file
+2025-06-09 16:04:33,555 - INFO - Creating new Excel file with data
+2025-06-09 16:04:36,751 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:04:36,752 - INFO - Starting blob upload process.
+2025-06-09 16:04:36,752 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:04:36,752 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:04:36,981 - INFO - Script execution started.
+2025-06-09 16:04:36,981 - INFO - Reading data from excel file
+2025-06-09 16:04:39,582 - INFO - Creating new Excel file with data
+2025-06-09 16:04:42,226 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_3.xlsx
+2025-06-09 16:04:42,226 - INFO - Starting blob upload process.
+2025-06-09 16:04:42,226 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy 2.xlsx to Azure blob.
+2025-06-09 16:04:42,226 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:04:42,464 - INFO - Script execution started.
+2025-06-09 16:04:42,464 - INFO - Reading data from excel file
+2025-06-09 16:04:45,042 - INFO - Creating new Excel file with data
+2025-06-09 16:04:47,654 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_2.xlsx
+2025-06-09 16:04:47,655 - INFO - Starting blob upload process.
+2025-06-09 16:04:47,655 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy.xlsx to Azure blob.
+2025-06-09 16:04:47,655 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:05:22,370 - INFO - Script execution started.
+2025-06-09 16:05:22,370 - INFO - Reading data from excel file
+2025-06-09 16:05:22,380 - INFO - Script execution started.
+2025-06-09 16:05:22,381 - INFO - Reading data from excel file
+2025-06-09 16:05:22,391 - INFO - Script execution started.
+2025-06-09 16:05:22,391 - INFO - Reading data from excel file
+2025-06-09 16:05:25,225 - INFO - Creating new Excel file with data
+2025-06-09 16:05:25,304 - INFO - Creating new Excel file with data
+2025-06-09 16:05:25,320 - INFO - Creating new Excel file with data
+2025-06-09 16:05:28,233 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_3.xlsx
+2025-06-09 16:05:28,234 - INFO - Starting blob upload process.
+2025-06-09 16:05:28,235 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy 2.xlsx to Azure blob.
+2025-06-09 16:05:28,235 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:05:28,238 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_2.xlsx
+2025-06-09 16:05:28,238 - INFO - Starting blob upload process.
+2025-06-09 16:05:28,238 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy.xlsx to Azure blob.
+2025-06-09 16:05:28,238 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:05:28,371 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:05:28,371 - INFO - Starting blob upload process.
+2025-06-09 16:05:28,371 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:05:28,371 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:05:53,982 - INFO - Script execution started.
+2025-06-09 16:05:53,982 - INFO - Reading data from excel file
+2025-06-09 16:05:53,991 - INFO - Script execution started.
+2025-06-09 16:05:53,991 - INFO - Reading data from excel file
+2025-06-09 16:05:54,002 - INFO - Script execution started.
+2025-06-09 16:05:54,002 - INFO - Reading data from excel file
+2025-06-09 16:05:56,820 - INFO - Creating new Excel file with data
+2025-06-09 16:05:56,941 - INFO - Creating new Excel file with data
+2025-06-09 16:05:57,037 - INFO - Creating new Excel file with data
+2025-06-09 16:06:00,025 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:06:00,025 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_2.xlsx
+2025-06-09 16:06:00,025 - INFO - Starting blob upload process.
+2025-06-09 16:06:00,025 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:06:00,025 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:06:00,025 - INFO - Starting blob upload process.
+2025-06-09 16:06:00,025 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy.xlsx to Azure blob.
+2025-06-09 16:06:00,025 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:06:00,696 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_3.xlsx
+2025-06-09 16:06:00,698 - INFO - Starting blob upload process.
+2025-06-09 16:06:00,698 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy 2.xlsx to Azure blob.
+2025-06-09 16:06:00,698 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:06:15,005 - INFO - Script execution started.
+2025-06-09 16:06:15,005 - INFO - Reading data from excel file
+2025-06-09 16:06:15,018 - INFO - Script execution started.
+2025-06-09 16:06:15,018 - INFO - Reading data from excel file
+2025-06-09 16:06:15,033 - INFO - Script execution started.
+2025-06-09 16:06:15,033 - INFO - Reading data from excel file
+2025-06-09 16:06:17,898 - INFO - Creating new Excel file with data
+2025-06-09 16:06:17,966 - INFO - Creating new Excel file with data
+2025-06-09 16:06:18,031 - INFO - Creating new Excel file with data
+2025-06-09 16:06:20,979 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:06:20,980 - INFO - Starting blob upload process.
+2025-06-09 16:06:20,980 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:06:20,980 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:06:21,078 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_3.xlsx
+2025-06-09 16:06:21,078 - INFO - Starting blob upload process.
+2025-06-09 16:06:21,078 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy 2.xlsx to Azure blob.
+2025-06-09 16:06:21,078 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:06:21,270 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_copy_2.xlsx
+2025-06-09 16:06:21,270 - INFO - Starting blob upload process.
+2025-06-09 16:06:21,270 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test copy.xlsx to Azure blob.
+2025-06-09 16:06:21,270 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:08:10,267 - INFO - Script execution started.
+2025-06-09 16:08:10,267 - INFO - Reading data from excel file
+2025-06-09 16:08:10,278 - INFO - Script execution started.
+2025-06-09 16:08:10,278 - INFO - Reading data from excel file
+2025-06-09 16:08:10,289 - INFO - Script execution started.
+2025-06-09 16:08:10,289 - INFO - Reading data from excel file
+2025-06-09 16:08:13,085 - INFO - Creating new Excel file with data
+2025-06-09 16:08:13,227 - INFO - Creating new Excel file with data
+2025-06-09 16:08:13,307 - INFO - Creating new Excel file with data
+2025-06-09 16:08:13,358 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,518 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,617 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,744 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,744 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:08:13,904 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,904 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:08:13,994 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:08:13,994 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:26:35,824 - INFO - Script execution started.
+2025-06-09 16:26:35,824 - INFO - Reading data from excel file
+2025-06-09 16:26:41,652 - INFO - Creating new Excel file with data
+2025-06-09 16:26:42,039 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:42,363 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:42,363 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:26:42,555 - INFO - Script execution started.
+2025-06-09 16:26:42,555 - INFO - Reading data from excel file
+2025-06-09 16:26:45,061 - INFO - Creating new Excel file with data
+2025-06-09 16:26:45,397 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:45,724 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:45,725 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:26:45,920 - INFO - Script execution started.
+2025-06-09 16:26:45,920 - INFO - Reading data from excel file
+2025-06-09 16:26:48,384 - INFO - Creating new Excel file with data
+2025-06-09 16:26:48,644 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:48,953 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:26:48,953 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:27:36,664 - INFO - Script execution started.
+2025-06-09 16:27:36,664 - INFO - Reading data from excel file
+2025-06-09 16:27:39,313 - INFO - Creating new Excel file with data
+2025-06-09 16:27:39,648 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:27:40,010 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:27:40,011 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:28:59,102 - INFO - Script execution started.
+2025-06-09 16:28:59,102 - INFO - Reading data from excel file
+2025-06-09 16:29:01,725 - INFO - Creating new Excel file with data
+2025-06-09 16:29:02,056 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:29:02,390 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:29:02,391 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:29:55,379 - INFO - Script execution started.
+2025-06-09 16:29:55,379 - INFO - Reading data from excel file
+2025-06-09 16:29:57,887 - INFO - Creating new Excel file with incremented data
+2025-06-09 16:29:58,229 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:29:58,576 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:29:58,577 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:31:04,595 - INFO - Script execution started.
+2025-06-09 16:31:04,596 - INFO - Reading data from excel file
+2025-06-09 16:31:07,125 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:31:07,455 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:31:07,793 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:31:07,793 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:31:54,243 - INFO - Script execution started.
+2025-06-09 16:31:54,243 - INFO - Reading data from excel file
+2025-06-09 16:31:56,749 - INFO - Creating new Excel file with data
+2025-06-09 16:31:59,427 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:31:59,428 - INFO - Starting blob upload process.
+2025-06-09 16:31:59,428 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:31:59,428 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:32:47,792 - INFO - Script execution started.
+2025-06-09 16:32:47,792 - INFO - Reading data from excel file
+2025-06-09 16:32:50,485 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:32:50,782 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:32:51,124 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:32:51,124 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:32:55,077 - INFO - Script execution started.
+2025-06-09 16:32:55,080 - INFO - Reading data from excel file
+2025-06-09 16:32:57,710 - INFO - Creating new Excel file with data
+2025-06-09 16:33:46,590 - INFO - Script execution started.
+2025-06-09 16:33:46,590 - INFO - Reading data from excel file
+2025-06-09 16:33:48,085 - INFO - Creating new Excel file with data
+2025-06-09 16:34:57,405 - INFO - Script execution started.
+2025-06-09 16:34:57,405 - INFO - Reading data from excel file
+2025-06-09 16:34:58,963 - INFO - Creating new Excel file with data
+2025-06-09 16:35:51,800 - INFO - Script execution started.
+2025-06-09 16:35:51,800 - INFO - Reading data from excel file
+2025-06-09 16:35:53,325 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:35:53,332 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53863259)).workbooks['Book1'].worksheets['Sheet1'].name.get()
+2025-06-09 16:35:53,337 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53863259)).quit(saving=k.no)
+2025-06-09 16:35:53,337 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:35:53,522 - INFO - Script execution started.
+2025-06-09 16:35:53,522 - INFO - Reading data from excel file
+2025-06-09 16:35:53,621 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:35:54,007 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:35:54,007 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:35:56,261 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:35:56,574 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:35:56,924 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:35:56,924 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:36:15,737 - INFO - Script execution started.
+2025-06-09 16:36:15,737 - INFO - Reading data from excel file
+2025-06-09 16:36:18,351 - INFO - Creating new Excel file with data
+2025-06-09 16:37:21,968 - INFO - Script execution started.
+2025-06-09 16:37:21,968 - INFO - Reading data from excel file
+2025-06-09 16:37:23,416 - INFO - Creating new Excel file with data
+2025-06-09 16:37:27,856 - INFO - Script execution started.
+2025-06-09 16:37:27,856 - INFO - Reading data from excel file
+2025-06-09 16:37:29,257 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:37:29,269 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53912423)).workbooks['Book1'].worksheets['Sheet1'].name.get()
+2025-06-09 16:37:29,276 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53912423)).quit(saving=k.no)
+2025-06-09 16:37:29,276 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:37:29,538 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:37:29,879 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:37:29,880 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:37:47,635 - INFO - Script execution started.
+2025-06-09 16:37:47,635 - INFO - Reading data from excel file
+2025-06-09 16:37:50,333 - INFO - Creating new Excel file with repeated data
+2025-06-09 16:37:50,638 - ERROR - Error creating new Excel file: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:37:50,960 - ERROR - Error in main execution: Getting or setting 'app.interactive' isn't supported on macOS.
+2025-06-09 16:37:50,960 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:38:36,640 - INFO - Script execution started.
+2025-06-09 16:38:36,641 - INFO - Reading data from excel file
+2025-06-09 16:38:39,216 - INFO - Creating new Excel file with data
+2025-06-09 16:38:45,781 - INFO - Script execution started.
+2025-06-09 16:38:45,781 - INFO - Reading data from excel file
+2025-06-09 16:38:47,154 - INFO - Creating new Excel file with data
+2025-06-09 16:38:47,169 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53957490)).workbooks['Book1'].worksheets['Sheet1'].name.get()
+2025-06-09 16:38:47,176 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53957490)).quit(saving=k.no)
+2025-06-09 16:38:47,176 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:38:59,056 - INFO - Script execution started.
+2025-06-09 16:38:59,056 - INFO - Reading data from excel file
+2025-06-09 16:39:00,438 - INFO - Creating new Excel file with data
+2025-06-09 16:39:00,449 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53961587)).workbooks['Book1'].worksheets['Sheet1'].name.get()
+2025-06-09 16:39:00,455 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53961587)).quit(saving=k.no)
+2025-06-09 16:39:00,455 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:40:07,293 - INFO - Script execution started.
+2025-06-09 16:40:07,293 - INFO - Reading data from excel file
+2025-06-09 16:40:08,801 - INFO - Creating new Excel file with data
+2025-06-09 16:40:16,399 - INFO - Script execution started.
+2025-06-09 16:40:16,399 - INFO - Reading data from excel file
+2025-06-09 16:40:17,859 - INFO - Creating new Excel file with data
+2025-06-09 16:40:17,872 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53990266)).workbooks['Book1'].worksheets['Sheet1'].cells['A121'].count(each=k.column)
+2025-06-09 16:40:17,880 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 53990266)).quit(saving=k.no)
+2025-06-09 16:40:17,881 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:42:26,813 - INFO - Script execution started.
+2025-06-09 16:42:26,813 - INFO - Reading data from excel file
+2025-06-09 16:42:28,313 - INFO - Creating new Excel file with data
+2025-06-09 16:44:22,972 - INFO - Script execution started.
+2025-06-09 16:44:22,972 - INFO - Reading data from excel file
+2025-06-09 16:44:24,439 - INFO - Creating new Excel file with data
+2025-06-09 16:48:25,655 - INFO - Script execution started.
+2025-06-09 16:48:25,655 - INFO - Reading data from excel file
+2025-06-09 16:48:30,210 - INFO - Creating new Excel file with data
+2025-06-09 16:48:49,739 - INFO - Script execution started.
+2025-06-09 16:48:49,739 - INFO - Reading data from excel file
+2025-06-09 16:48:51,131 - INFO - Creating new Excel file with data
+2025-06-09 16:48:53,957 - INFO - Script execution started.
+2025-06-09 16:48:53,957 - INFO - Reading data from excel file
+2025-06-09 16:48:55,311 - INFO - Creating new Excel file with data
+2025-06-09 16:48:55,328 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 54137758)).workbooks['Book1'].worksheets['Sheet1'].name.get()
+2025-06-09 16:48:55,337 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 54137758)).quit(saving=k.no)
+2025-06-09 16:48:55,337 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:49:02,883 - INFO - Script execution started.
+2025-06-09 16:49:02,883 - INFO - Reading data from excel file
+2025-06-09 16:49:04,232 - INFO - Creating new Excel file with data
+2025-06-09 16:49:04,247 - ERROR - Error creating new Excel file: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 54141855)).workbooks['Book1'].name.get()
+2025-06-09 16:49:04,256 - ERROR - Error in main execution: Command failed:
+		OSERROR: -600
+		MESSAGE: Application isn't running.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 54141855)).quit(saving=k.no)
+2025-06-09 16:49:04,256 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:50:29,774 - INFO - Script execution started.
+2025-06-09 16:50:29,775 - INFO - Reading data from excel file
+2025-06-09 16:50:29,791 - INFO - Script execution started.
+2025-06-09 16:50:29,791 - INFO - Reading data from excel file
+2025-06-09 16:50:31,672 - INFO - Creating new Excel file with data
+2025-06-09 16:50:31,672 - INFO - Creating new Excel file with data
+2025-06-09 16:51:00,290 - INFO - Script execution started.
+2025-06-09 16:51:00,290 - INFO - Reading data from excel file
+2025-06-09 16:51:00,303 - INFO - Script execution started.
+2025-06-09 16:51:00,303 - INFO - Reading data from excel file
+2025-06-09 16:51:02,290 - INFO - Creating new Excel file with data
+2025-06-09 16:51:02,293 - ERROR - Error reading from Excel: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app(pid=66856).workbooks['xlwings_test copy 2.xlsx'].worksheets['Sheet1'].cells['B2:E2'].value.get()
+2025-06-09 16:51:02,294 - ERROR - Error in main execution: Command failed:
+		OSERROR: -609
+		MESSAGE: Connection is invalid.
+		COMMAND: app(pid=66856).workbooks['xlwings_test copy 2.xlsx'].worksheets['Sheet1'].cells['B2:E2'].value.get()
+2025-06-09 16:51:02,294 - INFO - Script execution finished. System will shut down in 10 seconds.
+2025-06-09 16:51:17,755 - INFO - New Excel file created successfully at /Users/Work/Desktop/xlwings_test_2.xlsx
+2025-06-09 16:51:17,756 - INFO - Starting blob upload process.
+2025-06-09 16:51:17,756 - INFO - Uploading /Users/Work/Desktop/xlwings/xlwings_test.xlsx to Azure blob.
+2025-06-09 16:51:17,756 - INFO - Script execution finished. System will shut down in 10 seconds.
